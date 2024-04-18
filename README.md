@@ -1,4 +1,4 @@
-# AnthonyTselekis
+# AnthTsel
 
 # Data Science and Machine Learning Portfolio
 
