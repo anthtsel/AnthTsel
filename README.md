@@ -12,7 +12,7 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 
 ## 📚 Projects
 
-- [Fandango](link/to/project1): Detemine if there is a conflict of interest for a website to both sells movie tickets and displays review ratings.
+- [Fandango](link/to/project1): Detemine if there is a conflict of interest for a website to both sell movie tickets and displays movie review ratings.
 
 ## 📫 Get in Touch
 
