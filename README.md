@@ -10,6 +10,8 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 
 ## 📚 Projects
 
+- Here is a link to my portfolio [Data Science and Machine Learning](https://github.com/anthtsel/Data-Science-Portfolio/tree/master)
+
 - [Fandango](link/to/project1): Detemine if there is a conflict of interest for a website to both sell movie tickets and displays movie review ratings.
 
 ## 📫 Get in Touch
