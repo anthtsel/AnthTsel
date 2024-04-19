@@ -2,8 +2,6 @@
 
 Welcome to my data science and machine learning portfolio! I am passionate about using data to drive insights and build predictive models.
 
-...
-
 ## 🌱 Currently Learning
 
 - Python
