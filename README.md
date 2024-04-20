@@ -18,4 +18,4 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 
 - LinkedIn: https://www.linkedin.com/in/anthony-tselekis-38251749/
 - Email: a.tselekis@gmail.com
-- Portfolio: https://github.com/anthtsel/Data-Science-Portfolio
+- Kaggle:
