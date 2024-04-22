@@ -7,12 +7,15 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 - Python
 - Data Science
 - Machine Learning
+- APIs
 
 ## 📚 Projects
 
 - Here is a link to my portfolio [Data Science and Machine Learning](https://github.com/anthtsel/Data-Science-Portfolio)
 
 - Here is a link to my (in progress) webapp [Dad Code](https://github.com/anthtsel/pythonapp)
+
+- Here is a link to my APIs [API_Projects](https://github.com/anthtsel/API_Projects)
 
 ## 📫 Get in Touch
 
