@@ -17,7 +17,7 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 
 - Here is a link to my APIs [API_Projects](https://github.com/anthtsel/API_Projects)
 
-- Here is a link to my live Web Apps that use Google Gen AI [Story Weaver](https://github.com/anthtsel/StoryWeaver), [Dungeon Weaver] (https://github.com/anthtsel/DuneonWeaver)
+- Here is a link to my live Web Apps that use Google Gen AI [Story Weaver](https://github.com/anthtsel/StoryWeaver), [Dungeon Weaver](https://github.com/anthtsel/DuneonWeaver)
 
 ## 📫 Get in Touch
 
