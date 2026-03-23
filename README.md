@@ -8,7 +8,6 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 - Data Science
 - Machine Learning
 - APIs
-- React / Next.js
 
 ## 📚 Projects
 
