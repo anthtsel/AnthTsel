@@ -1,11 +1,11 @@
 # Hey, my name is Anthony Tselekis 👋
 
-Welcome to my data science and machine learning portfolio! I am passionate about using data to drive insights and build predictive models.
+Welcome to my CLI/Web App and machine learning portfolio! I am passionate about using data to drive insights and build predictive models. All repo's are for local machine.
 
 ## 🌱 Currently Learning
 
 - Python
-- Data Science
+- Agentic AI
 - Machine Learning
 - APIs
 
@@ -18,6 +18,12 @@ Welcome to my data science and machine learning portfolio! I am passionate about
 - Here is a link to my APIs [API_Projects](https://github.com/anthtsel/API_Projects)
 
 - Here is a link to my Local Library app that use Google Gemma3 AI [Library](https://github.com/anthtsel/Library_project)
+
+-  Placeholder for future Rag Project named Atlas
+
+-  Placeholder for future Smart financial assistant which may turn into a Quant trader app (not sure yet)
+
+-  Placeholder for robotics Reachy project
 
 ## 📫 Get in Touch
 
