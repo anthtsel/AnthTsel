@@ -1,33 +1,35 @@
 # Hey, my name is Anthony Tselekis 👋
 
-Welcome to my CLI/Web App and machine learning portfolio! I am passionate about using data to drive insights and build predictive models. All repo's are for local machine. Recently I started using Claude Code to assist with projects.
+Welcome to my portfolio! I’m a Software Product Manager focused on bridging the gap between enterprise logic and local AI implementation. I specialize in building CLI and Web applications that prioritize local execution, privacy, and agentic workflows.
 
-## 🌱 Currently Learning
+Recently, I’ve been leveraging **Claude Code** to accelerate my development cycle and explore the boundaries of autonomous coding agents.
 
-- Python
-- Agentic AI
-- Claude Code
-- Machine Learning
-- APIs
+## 🌱 Currently Learning & Exploring
+
+* **Agentic AI:** Orchestrating multi-agent systems for task automation.
+* **Local LLMs:** Implementing RAG systems using tools like Ollama and Gemma 3.
+* **Infrastructure:** Developing within WSL2/Ubuntu environments for seamless Python deployment.
+* **Vector Databases:** Experimenting with ChromaDB for efficient data retrieval.
 
 ## 📚 Projects
 
-- Here is a link to my portfolio [Data Science and Machine Learning](https://github.com/anthtsel/Data-Science-Portfolio)
+### 🛠️ Featured Work
+* **[Local AI Librarian](https://github.com/anthtsel/Library_project)**
+    A personal library management system integrated with **Google Gemma 3**. It tracks book data and utilizes local AI for intelligent categorization and rating systems.
+* **[Dad Code](https://github.com/anthtsel/pythonapp)**
+    An in-progress web application exploring Python-based web frameworks and CLI integrations.
 
-- Here is a link to my (in progress) webapp [Dad Code](https://github.com/anthtsel/pythonapp)
+### 🏗️ In Development
+* **Project Atlas:** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
+* **Smart Financial Assistant:** A personal finance tool evolving into a quantitative trading application, focusing on market data analysis.
+* **Reachy Robotics:** Exploring the intersection of software agents and physical robotics.
 
-- Here is a link to my APIs [API_Projects](https://github.com/anthtsel/API_Projects)
+---
 
-- Here is a link to my Local Library app that use Google Gemma3 AI [Library](https://github.com/anthtsel/Library_project)
+### 🚀 Technical Stack
+**Languages:** Python, FastAPI  
+**AI/ML:** LangChain, Claude Code, Google Gemma, Ollama  
+**Data:** ChromaDB, Power BI  
+**Tools:** Docker, WSL2, Git, JIRA
 
--  Placeholder for future Rag Project named Atlas
-
--  Placeholder for future Smart financial assistant which may turn into a Quant trader app (not sure yet)
-
--  Placeholder for robotics Reachy project
-
-## 📫 Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/anthony-tselekis-38251749/
-- Email: a.tselekis@gmail.com
-- Kaggle:
+📫 **How to reach me:** [[Your LinkedIn](https://www.linkedin.com/in/anthony-tselekis-38251749/) or a.tselekis@gmail.com]
