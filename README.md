@@ -32,4 +32,4 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
 **Data:** ChromaDB, Power BI  
 **Tools:** Docker, WSL2, Git, JIRA
 
-📫 **How to reach me:** [[Your LinkedIn](https://www.linkedin.com/in/anthony-tselekis-38251749/) or a.tselekis@gmail.com]
+📫 **How to reach me:** [[LinkedIn](https://www.linkedin.com/in/anthony-tselekis-38251749/) or a.tselekis@gmail.com]
