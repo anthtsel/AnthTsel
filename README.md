@@ -1,11 +1,12 @@
 # Hey, my name is Anthony Tselekis 👋
 
-Welcome to my CLI/Web App and machine learning portfolio! I am passionate about using data to drive insights and build predictive models. All repo's are for local machine.
+Welcome to my CLI/Web App and machine learning portfolio! I am passionate about using data to drive insights and build predictive models. All repo's are for local machine. Recently I started using Claude Code to assist with projects.
 
 ## 🌱 Currently Learning
 
 - Python
 - Agentic AI
+- Claude Code
 - Machine Learning
 - APIs
 
