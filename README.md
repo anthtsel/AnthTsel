@@ -17,7 +17,7 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
 * **[Local AI Librarian](https://github.com/anthtsel/Library_project)**
     A personal library management system integrated with **Google Gemma 3**. It tracks book data and utilizes local AI for intelligent categorization and rating systems.
 * **[Dad Code](https://github.com/anthtsel/pythonapp)**
-    An in-progress web application exploring Python-based web frameworks and CLI integrations.
+    Project I built to learn python web development exploring Python-based web frameworks and CLI integrations.
 
 ### 🏗️ In Development
 * **Project Atlas:** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
