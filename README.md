@@ -18,9 +18,10 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
     A personal library management system integrated with **Google Gemma 3**. It tracks book data and utilizes local AI for intelligent categorization and rating systems.
 * **[Dad Code](https://github.com/anthtsel/pythonapp)**
     Project I built to learn python web development exploring Python-based web frameworks and CLI integrations.
+* **[db_scan]()**
 
 ### 🏗️ In Development
-* **Project [Atlas(https://github.com/anthtsel/Atlas)]:** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
+* **Project [Atlas](https://github.com/anthtsel/Atlas):** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
 * **Smart Financial Assistant:** A personal finance tool evolving into a quantitative trading application, focusing on market data analysis.
 * **Reachy Robotics:** Exploring the intersection of software agents and physical robotics.
 
