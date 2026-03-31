@@ -19,7 +19,7 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
 * **[Dad Code](https://github.com/anthtsel/pythonapp)**
     Project I built to learn python web development exploring Python-based web frameworks and CLI integrations.
 * **[Atlas](https://github.com/anthtsel/Atlas)** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
-* **[db_scan]()**
+* **[db_scan](https://github.com/anthtsel/db_scan)**
     Inspect databases and data files, then generate a Markdown schema summary optimised for dropping into LLM context windows.
 
 ### 🏗️ In Development
