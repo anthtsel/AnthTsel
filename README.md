@@ -20,7 +20,7 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
     Project I built to learn python web development exploring Python-based web frameworks and CLI integrations.
 
 ### 🏗️ In Development
-* **Project [[Atlas](https://github.com/anthtsel/Atlas)]:** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
+* **Project [Atlas(https://github.com/anthtsel/Atlas)]:** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
 * **Smart Financial Assistant:** A personal finance tool evolving into a quantitative trading application, focusing on market data analysis.
 * **Reachy Robotics:** Exploring the intersection of software agents and physical robotics.
 
