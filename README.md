@@ -8,14 +8,14 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
 
 * **Agentic AI:** Orchestrating multi-agent systems for task automation.
 * **Local LLMs:** Implementing RAG systems using tools like Ollama and Gemma 3.
-* **Infrastructure:** Developing within WSL2/Ubuntu environments for seamless Python deployment.
+* **Infrastructure:** Developing within WSL2/Ubuntu environments and MacOS for seamless Python deployment.
 * **Vector Databases:** Experimenting with ChromaDB for efficient data retrieval.
 
 ## 📚 Projects
 
 ### 🛠️ Featured Work
 * **[Local AI Librarian](https://github.com/anthtsel/Library_project)**
-    A personal library management system integrated with **Google Gemma 3**. It tracks book data and utilizes local AI for intelligent categorization and rating systems.
+    A personal library management system integrated with **Google Gemma 4**. It tracks book data and utilizes local AI for intelligent categorization and rating systems.
 * **[Dad Code](https://github.com/anthtsel/pythonapp)**
     Project I built to learn python web development exploring Python-based web frameworks and CLI integrations.
 * **[Atlas](https://github.com/anthtsel/Atlas)** A high-performance RAG (Retrieval-Augmented Generation) project designed for local document intelligence.
@@ -29,9 +29,9 @@ Recently, I’ve been leveraging **Claude Code** to accelerate my development cy
 ---
 
 ### 🚀 Technical Stack
-**Languages:** Python, FastAPI  
+**Languages:** Python, FastAPI, Go
 **AI/ML:** LangChain, Claude Code, Google Gemma, Ollama  
 **Data:** ChromaDB, Power BI  
-**Tools:** Docker, WSL2, Git, JIRA
+**Tools:** Docker, Orbstack, WSL2, Git, JIRA
 
 📫 **How to reach me:** [[LinkedIn](https://www.linkedin.com/in/anthony-tselekis-38251749/) or a.tselekis@gmail.com]
